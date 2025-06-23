@@ -1,0 +1,87 @@
+body{
+    background-color: #101017;
+}
+.navbar{
+    background-color: #101017 ;
+}
+
+.nama{
+    color: #198754;
+    margin-top: 50px;
+}
+.deskripsi{
+    color: #808080;
+}
+.list-group{
+    list-style: none;
+}
+
+.card-body{
+    background-color: #313131;    
+    color:#808080;
+    border: none;
+}
+h3{
+    color: #198754;
+}
+.tols {
+    color: #808080;
+}
+.skill-icon img {
+    width: 7rem;
+    height: 7rem;
+    margin-top: 2rem;
+}
+
+.framework-img img{
+    width: 12rem;
+    height: 7rem;
+    margin: 4rem;
+}
+.skill-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.card{
+    padding: .5rem;
+    border-radius: 10px;
+    background-color: #101017;
+    border: 3px solid #198754;
+    height: 30rem;
+}
+.card img{
+   
+    border-radius: 10px;
+    height: 50%;
+    
+}
+.card-body{
+    background-color:  #101017;
+}
+.card-body .btn{
+    background-color: #198754;
+}
+section{
+    padding-top: 5rem;
+}
+.footer{
+    background-color: #198754;
+    margin-top: 8rem;
+    height: 390px;
+}
+.list-li{
+     margin-right: 2rem;
+}
+.footer-link{
+   
+    padding: 2rem;
+    list-style: none;
+}
+@media (max-width: 550px) {
+  .skill-icon{
+    display: flex;
+    margin-left: 2rem;
+  }
+}
